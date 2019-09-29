@@ -1,0 +1,31 @@
+.modal{
+    position: fixed;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    /* border: 10px solid #494EED; */
+    padding: 60px 100px;
+    background-color: #7276D8;
+    font-size: 20px bold;
+
+}
+.cell{
+
+    /* border: 3px solid #494EED; */
+    width: 200px;
+    height: 200px;
+    background-color: #BABBE0;   
+    font: 80px bold;
+    text-align: center;
+}
+
+table{
+    position: fixed;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+   
+}
+
+
+
